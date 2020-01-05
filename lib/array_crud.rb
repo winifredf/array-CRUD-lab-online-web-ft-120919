@@ -1,4 +1,4 @@
-def create_an_empty_array
+idef create_an_empty_array
   []
 end
 
